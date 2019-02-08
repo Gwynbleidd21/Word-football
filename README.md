@@ -1,1 +1,3 @@
-# World-football
+# Word-football
+
+That famous mobile game.
